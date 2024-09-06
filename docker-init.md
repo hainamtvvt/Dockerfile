@@ -42,3 +42,12 @@ Flask
 docker init
 ```
 
+![image](https://github.com/user-attachments/assets/126d84f7-f4ee-49cd-baaa-4e4d548f8d82)
+
+The next thing you do is choose the application platform, for our example we are using python. It will suggest the recommended values for your project such as Python version, port, entrypoint commands.
+
+![image](https://github.com/user-attachments/assets/25607be7-f628-45cd-83df-0e36685bc28a)
+
+You can either choose the default values or provide the values you want, and it will create your docker config files along with instructions for running the application on the fly.
+
+![image](https://github.com/user-attachments/assets/5daf9e2d-ed78-4322-9d2f-9c3f5f51e137)
